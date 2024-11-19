@@ -5,7 +5,7 @@ import { CheckCircle2 } from "lucide-react";
 
 const Workflow = () => {
   return (
-    <div className="relative mt-20 border-b border-neutral-800 min-h-[800px]">
+    <div className="relative mt-20 border-b border-neutral-800 min-h-[800px]" id={'Workflow'}>
     <div className="text-center">
       <h2 className="text-3xl sm:text-5xl lg:text-6xl mt-10 lg:mt-20 tracking-wide">
         Acclerate Your {" "}
